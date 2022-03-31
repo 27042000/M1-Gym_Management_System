@@ -14,4 +14,5 @@
 | L_02| Is user able to close application| 6 | exits|
 
 
-###### High Level test plan
+###### Login page view
+
