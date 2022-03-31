@@ -16,4 +16,7 @@
 
 ###### Login page view
 ![Login](https://user-images.githubusercontent.com/101061728/161077382-3b651c21-722d-4153-b1d5-808cd77606f3.PNG)
+###### Main Menu
+![Main menu](https://user-images.githubusercontent.com/101061728/161077879-de0f927c-dc33-4fe3-b9cf-ed0afe25158d.PNG)
+
 
