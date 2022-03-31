@@ -12,3 +12,6 @@
 | --- | --- | --- | ---- |
 | L_01 |  Is User able to login | Pass |  Password matched|
 | L_02| Is user able to close application| 6 | exits|
+
+
+###### High Level test plan
