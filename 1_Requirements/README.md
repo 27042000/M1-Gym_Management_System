@@ -33,4 +33,14 @@ Design and testing opertaions of GYM MANAGEMENT SYSTEM for storing the records o
 * Save time of the mangement and keep data uptodated.
 #### THREATS
 *  Idea Can be copied easily.
+### 4'W and 1'H
+###### What : 
+Gym Management System.
+###### Where
+It can be used for the Managing the record of the GYM.
+###### When
+When we have to keep the record of the new member in the gym 
+###### How
+It is used to update the records of the  gym member
+
 
