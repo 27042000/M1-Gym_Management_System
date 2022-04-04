@@ -1,4 +1,4 @@
-# [Code Quality](https://app.codiga.io/public/project/32579/M1_Gym_Management_System/dashboard)
+# Gym Management System
 
 # [Code Quality Score](https://api.codiga.io/project/32579/score/svg).
 
